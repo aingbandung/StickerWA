@@ -1,0 +1,10 @@
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#075E54</item>
+        <item name="colorPrimaryVariant">#064E47</item>
+        <item name="colorSecondary">#25D366</item>
+        <item name="android:statusBarColor">#064E47</item>
+        <item name="android:navigationBarColor">#064E47</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>
